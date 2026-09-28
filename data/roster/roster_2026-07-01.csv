@@ -1,0 +1,6 @@
+athlete_id,name,squad,device_id,max_hr,rest_hr,notes
+A01,Ali Raza,Endurance,D011,190,48,
+A02,Sara Khan,Endurance,D012,188,52,
+A03,Hamza Tariq,Speed,D013,195,55,
+A04,Zainab Mirza,Speed,D014,192,50,
+A05,Bilal Ahmed,Endurance,D015,186,46,

@@ -1,0 +1,438 @@
+{
+ "page": 4,
+ "page_size": 40,
+ "fetched_at": "2026-09-01T15:12:00Z",
+ "next_page_token": null,
+ "sessions": [
+  {
+   "session_id": "Sc17f94ac",
+   "device_id": "D013",
+   "sport": "run",
+   "start_time": "2026-08-17T01:10:00Z",
+   "end_time": "2026-08-17T01:46:00Z",
+   "duration_s": 2160,
+   "distance_m": 6286,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "S0b522dcd",
+   "device_id": "D011",
+   "sport": "run",
+   "start_time": "2026-08-17T01:20:00Z",
+   "end_time": "2026-08-17T02:11:00Z",
+   "duration_s": 3060,
+   "distance_m": 8502,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "S6ae613b7",
+   "device_id": "D017",
+   "sport": "run",
+   "start_time": "2026-08-17T01:30:00Z",
+   "end_time": "2026-08-17T02:15:00Z",
+   "duration_s": 2700,
+   "distance_m": 8891,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "S1ee69de7",
+   "device_id": "D014",
+   "sport": "run",
+   "start_time": "2026-08-17T12:15:00Z",
+   "end_time": "2026-08-17T13:00:00Z",
+   "duration_s": 2700,
+   "distance_m": 8785,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "S5e19b3e6",
+   "device_id": "D012",
+   "sport": "run",
+   "start_time": "2026-08-17T12:30:00Z",
+   "end_time": "2026-08-17T13:10:00Z",
+   "duration_s": 2400,
+   "distance_m": 8579,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "S930166a9",
+   "device_id": "D015",
+   "sport": "run",
+   "start_time": "2026-08-17T12:45:00Z",
+   "end_time": "2026-08-17T13:23:00Z",
+   "duration_s": 2280,
+   "distance_m": 6280,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "S3a706591",
+   "device_id": "D014",
+   "sport": "run",
+   "start_time": "2026-08-19T01:10:00Z",
+   "end_time": "2026-08-19T01:51:00Z",
+   "duration_s": 2460,
+   "distance_m": 8337,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "Sff207deb",
+   "device_id": "D015",
+   "sport": "run",
+   "start_time": "2026-08-19T01:45:00Z",
+   "end_time": "2026-08-19T02:23:00Z",
+   "duration_s": 2280,
+   "distance_m": 6474,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "S28746f6a",
+   "device_id": "D011",
+   "sport": "run",
+   "start_time": "2026-08-19T12:30:00Z",
+   "end_time": "2026-08-19T13:54:00Z",
+   "duration_s": 5040,
+   "distance_m": 17485,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "S7ea30cf2",
+   "device_id": "D017",
+   "sport": "run",
+   "start_time": "2026-08-19T12:30:00Z",
+   "end_time": "2026-08-19T13:17:00Z",
+   "duration_s": 2820,
+   "distance_m": 8909,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "S36c72984",
+   "device_id": "D013",
+   "sport": "run",
+   "start_time": "2026-08-19T12:30:00Z",
+   "end_time": "2026-08-19T13:25:00Z",
+   "duration_s": 3300,
+   "distance_m": 8905,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "S1ee411f0",
+   "device_id": "D012",
+   "sport": "run",
+   "start_time": "2026-08-19T12:45:00Z",
+   "end_time": "2026-08-19T13:28:00Z",
+   "duration_s": 2580,
+   "distance_m": 7472,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "S5a10413b",
+   "device_id": "D011",
+   "sport": "run",
+   "start_time": "2026-08-21T01:00:00Z",
+   "end_time": "2026-08-21T01:51:00Z",
+   "duration_s": 3060,
+   "distance_m": 10420,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "S35fbc8a4",
+   "device_id": "D013",
+   "sport": "run",
+   "start_time": "2026-08-21T01:00:00Z",
+   "end_time": "2026-08-21T01:36:00Z",
+   "duration_s": 2160,
+   "distance_m": 6497,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "S7601a50d",
+   "device_id": "D014",
+   "sport": "run",
+   "start_time": "2026-08-21T01:10:00Z",
+   "end_time": "2026-08-21T01:47:00Z",
+   "duration_s": 2220,
+   "distance_m": 7021,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "Se06bc0e7",
+   "device_id": "D015",
+   "sport": "run",
+   "start_time": "2026-08-21T01:45:00Z",
+   "end_time": "2026-08-21T02:25:00Z",
+   "duration_s": 2400,
+   "distance_m": 5918,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "S11bea691",
+   "device_id": "D012",
+   "sport": "run",
+   "start_time": "2026-08-21T12:15:00Z",
+   "end_time": "2026-08-21T12:52:00Z",
+   "duration_s": 2220,
+   "distance_m": 7877,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "S52b90c47",
+   "device_id": "D017",
+   "sport": "run",
+   "start_time": "2026-08-21T12:45:00Z",
+   "end_time": "2026-08-21T13:31:00Z",
+   "duration_s": 2760,
+   "distance_m": 8849,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "S719426f7",
+   "device_id": "D011",
+   "sport": "run",
+   "start_time": "2026-08-22T01:10:00Z",
+   "end_time": "2026-08-22T02:48:00Z",
+   "duration_s": 5880,
+   "distance_m": 20501,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "S066ace70",
+   "device_id": "D012",
+   "sport": "run",
+   "start_time": "2026-08-22T01:10:00Z",
+   "end_time": "2026-08-22T02:29:00Z",
+   "duration_s": 4740,
+   "distance_m": 13466,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "S5e3f296f",
+   "device_id": "D014",
+   "sport": "run",
+   "start_time": "2026-08-22T01:20:00Z",
+   "end_time": "2026-08-22T02:08:00Z",
+   "duration_s": 2880,
+   "distance_m": 10265,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "Sa1a11202",
+   "device_id": "D015",
+   "sport": "run",
+   "start_time": "2026-08-22T01:20:00Z",
+   "end_time": "2026-08-22T02:09:00Z",
+   "duration_s": 2940,
+   "distance_m": 10378,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "S9fd0b550",
+   "device_id": "D015",
+   "sport": "run",
+   "start_time": "2026-08-24T01:00:00Z",
+   "end_time": "2026-08-24T01:37:00Z",
+   "duration_s": 2220,
+   "distance_m": 7140,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "S3fa25445",
+   "device_id": "D013",
+   "sport": "run",
+   "start_time": "2026-08-24T01:30:00Z",
+   "end_time": "2026-08-24T02:07:00Z",
+   "duration_s": 2220,
+   "distance_m": 6004,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "S6b4d0c3b",
+   "device_id": "D017",
+   "sport": "run",
+   "start_time": "2026-08-24T01:45:00Z",
+   "end_time": "2026-08-24T02:32:00Z",
+   "duration_s": 2820,
+   "distance_m": 7820,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "S81f42837",
+   "device_id": "D014",
+   "sport": "run",
+   "start_time": "2026-08-24T12:00:00Z",
+   "end_time": "2026-08-24T12:35:00Z",
+   "duration_s": 2100,
+   "distance_m": 7043,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "S38c021bc",
+   "device_id": "D012",
+   "sport": "run",
+   "start_time": "2026-08-24T12:30:00Z",
+   "end_time": "2026-08-24T13:19:00Z",
+   "duration_s": 2940,
+   "distance_m": 10392,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "Sf7cd251c",
+   "device_id": "D011",
+   "sport": "run",
+   "start_time": "2026-08-26T01:20:00Z",
+   "end_time": "2026-08-26T02:47:00Z",
+   "duration_s": 5220,
+   "distance_m": 16764,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "S256b3a6e",
+   "device_id": "D017",
+   "sport": "run",
+   "start_time": "2026-08-26T01:20:00Z",
+   "end_time": "2026-08-26T01:58:00Z",
+   "duration_s": 2280,
+   "distance_m": 7702,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "Sf17aeb56",
+   "device_id": "D013",
+   "sport": "run",
+   "start_time": "2026-08-26T01:20:00Z",
+   "end_time": "2026-08-26T02:07:00Z",
+   "duration_s": 2820,
+   "distance_m": 7958,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "Sbaf09bf0",
+   "device_id": "D015",
+   "sport": "run",
+   "start_time": "2026-08-26T01:30:00Z",
+   "end_time": "2026-08-26T02:00:00Z",
+   "duration_s": 1800,
+   "distance_m": 5967,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "S93a6abd5",
+   "device_id": "D012",
+   "sport": "run",
+   "start_time": "2026-08-26T12:15:00Z",
+   "end_time": "2026-08-26T13:48:00Z",
+   "duration_s": 5580,
+   "distance_m": 16077,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "S8bbeaf9b",
+   "device_id": "D014",
+   "sport": "run",
+   "start_time": "2026-08-26T12:45:00Z",
+   "end_time": "2026-08-26T13:24:00Z",
+   "duration_s": 2340,
+   "distance_m": 7884,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "S68591cc7",
+   "device_id": "D011",
+   "sport": "run",
+   "start_time": "2026-08-28T01:20:00Z",
+   "end_time": "2026-08-28T02:16:00Z",
+   "duration_s": 3360,
+   "distance_m": 9506,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "Sa8c58836",
+   "device_id": "D015",
+   "sport": "run",
+   "start_time": "2026-08-28T01:45:00Z",
+   "end_time": "2026-08-28T02:25:00Z",
+   "duration_s": 2400,
+   "distance_m": 7637,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "S57286ab9",
+   "device_id": "D013",
+   "sport": "run",
+   "start_time": "2026-08-28T01:45:00Z",
+   "end_time": "2026-08-28T02:32:00Z",
+   "duration_s": 2820,
+   "distance_m": 9111,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "Sea4241dc",
+   "device_id": "D014",
+   "sport": "run",
+   "start_time": "2026-08-28T12:00:00Z",
+   "end_time": "2026-08-28T12:36:00Z",
+   "duration_s": 2160,
+   "distance_m": 6151,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "S11d3015f",
+   "device_id": "D017",
+   "sport": "run",
+   "start_time": "2026-08-28T12:45:00Z",
+   "end_time": "2026-08-28T13:35:00Z",
+   "duration_s": 3000,
+   "distance_m": 8695,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "S7e2e1408",
+   "device_id": "D015",
+   "sport": "run",
+   "start_time": "2026-08-29T01:20:00Z",
+   "end_time": "2026-08-29T02:05:00Z",
+   "duration_s": 2700,
+   "distance_m": 7825,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "Sc6fb6f5a",
+   "device_id": "D014",
+   "sport": "run",
+   "start_time": "2026-08-29T01:45:00Z",
+   "end_time": "2026-08-29T02:24:00Z",
+   "duration_s": 2340,
+   "distance_m": 6406,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "S7e48ad85",
+   "device_id": "D013",
+   "sport": "run",
+   "start_time": "2026-08-29T01:45:00Z",
+   "end_time": "2026-08-29T03:10:00Z",
+   "duration_s": 5100,
+   "distance_m": 17407,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "Sced6c639",
+   "device_id": "D012",
+   "sport": "run",
+   "start_time": "2026-08-29T12:15:00Z",
+   "end_time": "2026-08-29T13:36:00Z",
+   "duration_s": 4860,
+   "distance_m": 13938,
+   "sync_state": "complete"
+  },
+  {
+   "session_id": "Sa4774a2e",
+   "device_id": "D017",
+   "sport": "run",
+   "start_time": "2026-08-29T12:15:00Z",
+   "end_time": "2026-08-29T12:59:00Z",
+   "duration_s": 2640,
+   "distance_m": 7848,
+   "sync_state": "complete"
+  }
+ ]
+}

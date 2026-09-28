@@ -1,0 +1,8 @@
+category,session_id,athlete_id,detail,severity
+unsupported_firmware_app_combo,,,batch B2a148e78-8 on D011 synced on firmware 2.4.0 with app 5.1.3 (release notes require app >=5.2.0),low
+unsupported_firmware_app_combo,,,batch B4cbff532-9 on D011 synced on firmware 2.4.0 with app 5.1.3 (release notes require app >=5.2.0),low
+unsupported_firmware_app_combo,,,batch B5751fe80-6 on D014 synced on firmware 2.4.0 with app 5.1.3 (release notes require app >=5.2.0),low
+unsupported_firmware_app_combo,,,batch B7a61abf0-8 on D014 synced on firmware 2.4.0 with app 5.1.3 (release notes require app >=5.2.0),low
+low_completeness,S0b21423f,A02,completeness 90.2% (2220.0s of 2460s),medium
+vendor_session_revised,Se06bc0e7,,session_id=Se06bc0e7 had 2 distinct versions across vendor_api fetches,medium
+low_completeness,Se06bc0e7,A05,completeness 85.0% (2040.0s of 2400s),medium
