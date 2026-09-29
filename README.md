@@ -395,9 +395,13 @@ since no genuine overlap exists in these three drops.
 
 ## AI usage
 
-Used an AI assistant (Claude) for essentially the whole build: initial
-exploration of the raw files, the reconciliation logic, the PySpark
-pipeline, this README, the tests, and the data contract.
+I first reviewed the requirements and explored the raw data myself, forming
+an initial strategy for the solution. I then shared my findings with an 
+AI assistant (Claude), and together we refined the approach, which I implemented. 
+When I encountered errors, I investigated the data and code, shared my findings 
+with AI, and worked through the issues iteratively until we resolved them. AI was 
+used as a collaborative tool for refining the implementation and debugging, while 
+the analysis and key decisions remained my own.
 
 **Two concrete mistakes it made and I had to catch, with how I noticed:**
 
